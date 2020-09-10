@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/newsChannalItem"
+        android:icon="@drawable/news_channal_icon2"
+        android:title="NewsChannal"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/newsItem"
+        android:icon="@drawable/news_icon2"
+        android:title="News"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/collectItem"
+        android:icon="@drawable/collect_toolbar_icon2"
+        android:title="Collect"
+        app:showAsAction="always"/>
+
+</menu>
